@@ -1,5 +1,11 @@
-# Search for your favorite Star Wars Character!
-Search for a Star Wars character and display their personal info. Using a CLI and making API calls with SWAPI.
+# Star Wars Character Info
 
+## General Info
+Search for a Star Wars character and display their personal info using a CLI and making API calls with SWAPI (swapi.co).
+
+## Technologies
 Packages used: 
-- inquirer, superagent, and yargs
+- javascript
+- inquirer
+- superagent
+- yargs
