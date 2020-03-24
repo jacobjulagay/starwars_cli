@@ -1,0 +1,16 @@
+{
+  "name": "cli_app_module",
+  "version": "1.0.0",
+  "description": "CLI & App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jake",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^7.1.0",
+    "people_module": "file:../people_module",
+    "yargs": "^15.3.1"
+  }
+}
